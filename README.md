@@ -12,6 +12,7 @@ World Trip é um projeto front-end criado dentro do Bootcamp Ignite da Rocketsea
 O projeto Coffee delivery é o front-end de um e-commerce fictício que foi criado dentro do Bootcamp Ignite da Rocketseat com o intuito de aplicar na prática todo conteúdo estudado durante o curso. Além do proposto para o desafio, foi adicionado layout responsivo para melhor visualização em aparelhos mobile. Utilizei também o Headless CMS DatoCMS para fornecer os dados dos produtos simulando uma API.
 
 [Live Project](https://cleidson-oliveira.github.io/coffee-delivery/)
+<br />
 [Repositório](https://github.com/Cleidson-Oliveira/coffee-delivery)
 
 ---
